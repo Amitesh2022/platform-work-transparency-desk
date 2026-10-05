@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Worker guidance</span><h2>Every successful match needs clear skills, fair recruitment and practical arrival support</h2><p>Employers, mobility teams and public authorities can coordinate automated decisions and candidate journeys.</p></section></template>
